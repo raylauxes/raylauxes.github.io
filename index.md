@@ -2,7 +2,8 @@
 
 #### スカラーとベクトルの違い：
   スカラー  ：演算できる、普通の数
-  ベクトル  ：（一次元以上の）多次元空間に存在している、方向と長さを持っている数のセット
+ 
+ベクトル  ：（一次元以上の）多次元空間に存在している、方向と長さを持っている数のセット
 
 
 You can use the [editor on GitHub](https://github.com/raylauxes/raylauxes.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
