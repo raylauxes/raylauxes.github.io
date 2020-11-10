@@ -72,7 +72,7 @@ a:b = c:d (逆行列を持たない)
 3、他の成分が全部同じで、i番目のベクトルだけ違った場合…行列式の足し合わせになる
 
 
-[Link](url) and ![Image](/Users/AW/Library/Mobile\ Documents/com\~apple\~CloudDocs/スクリーンショット\ 2020-11-10\ 14.23.54.png)
+[Link](url) and ![Image](/スクリーンショット 2020-11-10 14.23.54.png)
 
 
 
