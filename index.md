@@ -82,7 +82,7 @@ a:b = c:d (逆行列を持たない)
 
 
 
-[Link](url) and ![Image](/スクリーンショット 2020-11-10 14.23.54.png)
+[Link](url) and ![Image](/MA_29_線形代数_行列_12_11m53s.png)
 
 
 
