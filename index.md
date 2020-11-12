@@ -122,8 +122,11 @@ A = VΛV(-1) => A行列の累乗は簡単にできる！
 
 ![Image](/MA_37_線形代数_固有値_05_05m31s.png)
 
+### 固有値分解には一個の方法だけじゃない (MA_38)
 
+A = VΛV(-1) のうち、
 
+Λ（対角線に各固有値λ(n)が入っている行列）は固定だが、固有ベクトルVは固定してない。でも、後についているVの逆行列と組み合わせたら同じ値となる！
 
 
 You can use the [editor on GitHub](https://github.com/raylauxes/raylauxes.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
