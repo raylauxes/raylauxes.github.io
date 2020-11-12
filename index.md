@@ -129,6 +129,20 @@ A = VΛV(-1) のうち、
 Λ（対角線に各固有値λ(n)が入っている行列）は固定だが、固有ベクトルVは固定してない。でも、後についているVの逆行列と組み合わせたら同じ値となる！
 
 
+### 固有値分解には、正方行列しかできない！ 正方でない行列に似たものを求める場合、特異値分解(MA_41)
+
+### 特異値分解の方法：
+
+非正方行列を転置して自身をかけたら正方行列を得る。その正方行列を固有値分解する。分解した結果を逆算すれば特異値を得る　（？？）(MA_43)
+
+### 特異値分解の応用：
+
+画像処理：画質を下げる（）？？ 画像を行列として考える(MA_44)
+
+
+
+
+
 You can use the [editor on GitHub](https://github.com/raylauxes/raylauxes.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
