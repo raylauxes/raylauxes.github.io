@@ -145,7 +145,15 @@ A = VΛV(-1) のうち、
 
 非正方行列を転置して自身をかけたら正方行列を得る。その正方行列を固有値分解する。分解した結果を逆算すれば特異値を得る　（？？）(MA_43)
 
-特異値分解PART2：特異値分解
+A     = V *   Λ   * V(-1)
+
+MM(T) = U * SS(T) * U(T)
+
+M(T)M = V * S(T)S * V(T)
+
+
+
+### Youtube: 特異値分解PART2：特異値分解
 [Link](https://www.youtube.com/watch?v=CUtT2Pi3ITQ)
 
 
