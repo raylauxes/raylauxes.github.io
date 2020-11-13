@@ -145,6 +145,9 @@ A = VΛV(-1) のうち、
 
 非正方行列を転置して自身をかけたら正方行列を得る。その正方行列を固有値分解する。分解した結果を逆算すれば特異値を得る　（？？）(MA_43)
 
+特異値分解PART2：特異値分解
+[Link](https://www.youtube.com/watch?v=CUtT2Pi3ITQ)
+
 
 ![Image](/MA_43_線形代数_固有値_11_04m04s.png)
 ![Image](/MA_43_線形代数_固有値_11_05m51s.png)
@@ -186,6 +189,8 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
