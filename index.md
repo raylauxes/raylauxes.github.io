@@ -223,6 +223,17 @@ P(B)「風邪を引く確率」
 
 ![Image](/MA_79_統計_09_03m00s.png)
 
+### (MA_80)
+
+P(AUB) = P(A) + P(B) - P(A∩B) 
+
+### ベイズ則
+
+問題：P(Candy | Smile) = ?
+
+ヒント：P(Smile) * P(Candy | Smile) = P(Candy) * P(Smile | Candy)
+
+![Image](/MA_81_統計_11_03m03s.png)
 
 
 
