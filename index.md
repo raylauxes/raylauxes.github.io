@@ -280,7 +280,7 @@ P(AUB) = P(A) + P(B) - P(A∩B)
 
 #### なぜそんなに複雑の式で確率を示しているの？[Introduction to the Bernoulli Distribution(Youtube)](https://www.youtube.com/watch?v=bT1p5tJwn_0)
 
-![Image](/Introduction to the Bernoulli Distribution_02m15s.png)
+![Image](/Introduction_to_the_Bernoulli_Distribution_02m15s.png)
 
 
 ### Markdown
