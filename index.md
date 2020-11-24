@@ -159,7 +159,7 @@ M(T)M = V * S(T)S * V(T)
 
 ### Youtube: 特異値分解PART2：特異値分解
 [Link](https://www.youtube.com/watch?v=CUtT2Pi3ITQ)
-
+[Youtube: 特異値分解PART2：特異値分解](https://www.youtube.com/watch?v=CUtT2Pi3ITQ)
 
 ![Image](/MA_43_線形代数_固有値_11_04m04s.png)
 ![Image](/MA_43_線形代数_固有値_11_05m51s.png)
