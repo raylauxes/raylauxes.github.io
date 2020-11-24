@@ -278,9 +278,19 @@ P(AUB) = P(A) + P(B) - P(A∩B)
 
 ![Image](/MA_86_統計_16_00m33s.png)
 
-#### なぜそんなに複雑の式で確率を示しているの？[Introduction to the Bernoulli Distribution(Youtube)](https://www.youtube.com/watch?v=bT1p5tJwn_0)
+#### なぜ２つの結果しかなくても、ベルヌーイ分布は複雑の式で確率を示しているの？[Introduction to the Bernoulli Distribution(Youtube)](https://www.youtube.com/watch?v=bT1p5tJwn_0)
 
 ![Image](/Introduction_to_the_Bernoulli_Distribution_02m15s.png)
+
+
+
+
+
+
+
+
+
+
 
 
 ### Markdown
