@@ -1,5 +1,8 @@
 # 応用数学レポート
 
+![Image](/bnr_jdla.png)
+http://study-ai.com/jdla/
+
 ## 線形代数 - 行列
 
 ### スカラーとベクトルの違い：
