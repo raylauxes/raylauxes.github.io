@@ -275,10 +275,15 @@ P(AUB) = P(A) + P(B) - P(A∩B)
 ![Image](/MA_85_統計_15_02m50s.png)
 
 ### 様々な確率分布 (MA_86_統計_16)
+```
+x = 1 OR 0
+
+μ：平均の値（ここでは確率のようなもの？）
+```
 
 ![Image](/MA_86_統計_16_00m33s.png)
 
-#### なぜ２つの結果しかなくても、ベルヌーイ分布は複雑の式で確率を示しているの？[Introduction to the Bernoulli Distribution(Youtube)](https://www.youtube.com/watch?v=bT1p5tJwn_0)
+#### なぜ２つの結果しかなくても、ベルヌーイ分布は複雑の式で確率を示しているの？1行で簡潔にかけて、ほかの確率理論とつながっている[Introduction to the Bernoulli Distribution(Youtube)](https://www.youtube.com/watch?v=bT1p5tJwn_0)
 
 ![Image](/Introduction_to_the_Bernoulli_Distribution_02m15s.png)
 
