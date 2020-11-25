@@ -297,7 +297,9 @@ x = 1 OR 0
 
 ### 様々な確率分布II (MA_87_統計_17)
 
-二項分布（）
+二項分布（binominal distribution）
+
+[Image](/MA_87_統計_17_05m00s.png)
 
 
 
