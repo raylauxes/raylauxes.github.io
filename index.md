@@ -84,6 +84,7 @@ a:b = c:d (逆行列を持たない)
 
 ![Image](/MA_29_線形代数_行列_12_11m53s.png)
 
+======================================================================================================================================
 
 ## 線形代数 - 固有値
 
@@ -171,6 +172,8 @@ M(T)M = V * S(T)S * V(T)
 
 同一画像かを判断する：２つの画像を特異値分解をかけた結果、もし大きな部分が同じ数値であれば、似たものが写っている可能性が高い
 
+======================================================================================================================================
+
 
 ## 確率統計 - 集合と確率
 
@@ -231,14 +234,11 @@ P(AUB) = P(A) + P(B) - P(A∩B)
 ### ベイズ則 (MA_81)
 ```
 問題：P(Candy | Smile) = ?
+ヒント：P(Smile) * P(Candy | Smile) = P(Candy) * P(Smile | Candy)
 ```
-> ヒント：P(Smile) * P(Candy | Smile) = P(Candy) * P(Smile | Candy)
-
 ![Image](/MA_81_統計_11_03m03s.png)
 
-
-
-
+======================================================================================================================================
 
 ## 確率統計 - 統計
 
@@ -283,9 +283,11 @@ x = 1 OR 0
 > μ：平均の値（ここでは確率のようなもの？）
 
 ![Image](/MA_86_統計_16_00m33s.png)
-
-#### なぜ２つの結果しかなくても、ベルヌーイ分布は複雑の式で確率を示しているの？1行で簡潔にかけて、ほかの確率理論とつながっている[Introduction to the Bernoulli Distribution(Youtube)](https://www.youtube.com/watch?v=bT1p5tJwn_0)
-
+```
+なぜ２つの結果しかなくても、ベルヌーイ分布は複雑の式で確率を示しているの？
+1行で簡潔にかけて、ほかの確率理論とつながっている
+[Introduction to the Bernoulli Distribution(Youtube)](https://www.youtube.com/watch?v=bT1p5tJwn_0)
+```
 ![Image](/Introduction_to_the_Bernoulli_Distribution_02m15s.png)
 
 
@@ -319,8 +321,6 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-
-
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
