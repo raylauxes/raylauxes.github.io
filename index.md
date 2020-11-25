@@ -280,15 +280,19 @@ P(AUB) = P(A) + P(B) - P(A∩B)
 x = 1 OR 0
 μ：平均の値（ここでは確率のようなもの？）
 ```
-> μ：平均の値（ここでは確率のようなもの？）
+> このμは確率のようなもの？成功の値は1なので、成功の期待値=平均値=確率？？
 
 ![Image](/MA_86_統計_16_00m33s.png)
 ```
 なぜ２つの結果しかなくても、ベルヌーイ分布は複雑の式で確率を示しているの？
-1行で簡潔にかけて、ほかの確率理論とつながっている
-[Introduction to the Bernoulli Distribution(Youtube)](https://www.youtube.com/watch?v=bT1p5tJwn_0)
+-1行で簡潔にかけて、数式で扱える
+-ほかの確率理論とつながっている
 ```
+Q: なぜマルチヌーイ分布には数式で書く意味ない？
+
+[Introduction to the Bernoulli Distribution(Youtube)](https://www.youtube.com/watch?v=bT1p5tJwn_0)
 ![Image](/Introduction_to_the_Bernoulli_Distribution_02m15s.png)
+
 
 
 
