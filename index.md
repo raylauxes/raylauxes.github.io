@@ -288,7 +288,7 @@ x = 1 OR 0
 -1行で簡潔にかけて、数式で扱える
 -ほかの確率理論とつながっている
 ```
-Q: なぜマルチヌーイ分布には数式で書く意味ない？
+>Q: なぜマルチヌーイ分布には数式で書く意味ない？
 
 [Introduction to the Bernoulli Distribution(Youtube)](https://www.youtube.com/watch?v=bT1p5tJwn_0)
 ![Image](/Introduction_to_the_Bernoulli_Distribution_02m15s.png)
