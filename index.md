@@ -299,7 +299,7 @@ x = 1 OR 0
 
 二項分布（binominal distribution）
 
-[Image](/MA_87_統計_17_05m00s.png)
+![Image](/MA_87_統計_17_05m00s.png)
 
 
 
