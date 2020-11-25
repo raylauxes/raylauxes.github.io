@@ -297,9 +297,19 @@ x = 1 OR 0
 
 ### 様々な確率分布II (MA_87_統計_17)
 
-二項分布（binominal distribution）
+#### 二項分布（binominal distribution）
 
-![Image](/MA_87_統計_17_05m00s.png)
+```
+μ = mu
+σ = Σ = sigma
+```
+
+> 二項分布の式は理解できない…
+
+#### ガウス分布
+
+
+![Image](/MA_87_統計_17_08m55s.png)
 
 
 
@@ -313,14 +323,9 @@ x = 1 OR 0
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
