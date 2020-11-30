@@ -297,19 +297,26 @@ x = 1 OR 0
 
 ### 様々な確率分布II (MA_87_統計_17)
 
-#### 二項分布（binominal distribution）
+#### 二項分布（binominal distribution）とガウス分布（normal/Gaussian/Gauss/Laplace–Gauss distribution）
+
+![Image](/MA_87_統計_17_08m55s.png)
 
 ```
 μ = mu
 σ = Σ = sigma
 ```
 
-> 二項分布の式は理解できない…
+> 二項分布の式について、Youtubeを参考…
+
+> [An_Introduction_to_the_Binomial_Distribution(Youtube)](https://www.youtube.com/watch?v=qIzC1-9PwQo)
+> ![Image](/An_Introduction_to_the_Binomial_Distribution_05m57s.png)
+> ![Image](/An_Introduction_to_the_Binomial_Distribution_06m26s.png)
+> ![Image](/An_Introduction_to_the_Binomial_Distribution_09m20s.png)
 
 #### ガウス分布
 
 
-![Image](/MA_87_統計_17_08m55s.png)
+
 
 
 
