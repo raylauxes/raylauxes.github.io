@@ -307,21 +307,47 @@ x = 1 OR 0
 ```
 
 > 二項分布の式について、Youtubeを参考…
-
 > [An_Introduction_to_the_Binomial_Distribution(Youtube)](https://www.youtube.com/watch?v=qIzC1-9PwQo)
 > ![Image](/An_Introduction_to_the_Binomial_Distribution_05m57s.png)
 > ![Image](/An_Introduction_to_the_Binomial_Distribution_06m26s.png)
 > ![Image](/An_Introduction_to_the_Binomial_Distribution_09m20s.png)
 
-#### ガウス分布
+### 推定（MA_88_統計_18）
 
+**ここの「母数」とは「母集団の個数」でなく、「平均値など母集団の特徴を決めるパラメーター」といる意味である**
 
+2種類の推定：点推定と区間推定（機械学習にはあまり使わない）
+![Image](/MA_88_統計_18_03m00s.png)
 
+### 推定量（estimator、推定関数とも）と推定値（estimate）（MA_89_統計_19）
+```
+θ：theta（シータ）
+```
+![Image](/MA_89_統計_19_03m00s.png)
 
+### MA_90_統計_20
 
+標本平均：母集団から取り出した標本の平均値
 
+一致性：サンプル数が大きくなれば、母集団の値に近づく
 
+不偏性：サンプル数がいくらであっても、その期待値は母集団の値と同様
+> なぜ？
+> 参考リンク：[標本分散の一致性と不偏性(BellCurve)](https://bellcurve.jp/statistics/course/14987.html)
 
+### 標本分散と不偏分散（MA_91_統計_21）
+
+標本分散には、一致性は満たすが、普遍性は満たさない！
+
+標本分散を修正する＝＞不偏分散
+
+**解釈の１つ：xの平均値が決まっているので、自由にn個のサンプルを取れるわけではない**
+
+nが大きくなれば、`n/(n-1)`はほぼ1となるため、掛けてもかけなくてもあまり変わらない
+
+![Image](/MA_91_統計_21_06m30s.png)
+
+> 参考リンク：[18-4. 標本分散と不偏分散(BellCurve)](https://bellcurve.jp/statistics/course/8614.html)
 
 
 
