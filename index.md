@@ -379,6 +379,11 @@ nが大きくなれば、`n/(n-1)`はほぼ1となるため、掛けてもかけ
 > 参考リンク：[Building the Shannon entropy formula](https://towardsdatascience.com/building-the-shannon-entropy-formula-ca67bdb74cdc)
 
 
+### カルバック・ライブラー　ダイバージェンス（Kullback–Leibler divergence D KL {\displaystyle D_{\text{KL}}} {\displaystyle D_{\text{KL}}}）(MA_95_統計_25)
+
+
+
+
 
 
 ### Markdown
