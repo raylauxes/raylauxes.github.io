@@ -357,6 +357,9 @@ nが大きくなれば、`n/(n-1)`はほぼ1となるため、掛けてもかけ
 
 ### 自己情報量(self-information)(MA_93_統計_23)
 
+珍しいことは情報量が多い
+![Image](/MA_93_統計_23_09m01s.png)
+
 > 参考リンク：[情報理論の基礎～情報量の定義から相対エントロピー、相互情報量まで～](https://logics-of-blue.com/information-theory-basic/)
 
 > 以下の2つの要請を満たす「情報量」を定義しましょう。
@@ -367,9 +370,13 @@ nが大きくなれば、`n/(n-1)`はほぼ1となるため、掛けてもかけ
 
 > この条件を満たす情報量は以下のように定義できます。あることが分かった際の「そのことの情報量」を自己情報量と呼びます。
 
-珍しいことは情報量が多い
-![Image](/MA_93_統計_23_09m01s.png)
+### シャノンエントロピ（Shannon entropy）(MA_94_統計_24)
 
+![Image](/MA_94_統計_24_00m30s.png)
+
+> Entropy is a measure of uncertainty
+
+> 参考リンク：[Building the Shannon entropy formula](https://towardsdatascience.com/building-the-shannon-entropy-formula-ca67bdb74cdc)
 
 
 
