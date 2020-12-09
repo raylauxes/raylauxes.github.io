@@ -379,7 +379,21 @@ nが大きくなれば、`n/(n-1)`はほぼ1となるため、掛けてもかけ
 > 参考リンク：[Building the Shannon entropy formula](https://towardsdatascience.com/building-the-shannon-entropy-formula-ca67bdb74cdc)
 
 
-### カルバック・ライブラー　ダイバージェンス（Kullback–Leibler divergence D KL {\displaystyle D_{\text{KL}}} {\displaystyle D_{\text{KL}}}）(MA_95_統計_25)
+### カルバック・ライブラー　ダイバージェンス（Kullback–Leibler divergence）(MA_95_統計_25)
+
+※「カルバック・ライブラー情報量」や「カルバック・ライブラー距離」とも訳されているが、「ダイバージェンス」イコール「情報量」や「距離」であるわけではない！
+
+カルバック・ライブラー　ダイバージェンス：「Pの珍しさとQの珍しさはどれぐらい違う」を表現すること
+
+```
+E：期待値（= 平均）
+I(P(x))：Pの自己情報量
+```
+![Image](/MA_95_統計_25_16m00s.png)
+
+> Very often in Probability and Statistics we'll replace observed data or a complex distributions with a simpler, approximating distribution. KL Divergence helps us to measure just how much information we lose when we choose an approximation.
+> 参考リンク：[Kullback-Leibler Divergence Explained](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained)
+
 
 
 
