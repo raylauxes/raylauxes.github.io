@@ -374,9 +374,9 @@ nが大きくなれば、`n/(n-1)`はほぼ1となるため、掛けてもかけ
 
 ![Image](/MA_94_統計_24_00m30s.png)
 
-> Entropy is a measure of uncertainty
+> Entropy is a measure of uncertainty（参考リンク：[Building the Shannon entropy formula](https://towardsdatascience.com/building-the-shannon-entropy-formula-ca67bdb74cdc)）
 
-> 参考リンク：[Building the Shannon entropy formula](https://towardsdatascience.com/building-the-shannon-entropy-formula-ca67bdb74cdc)
+> the information contained in a message about an event is related to the uncertainty and surprise-value of the event. An occurrence of an unlikely event gives you more information than the occurrence of a likely event. Claude Shannon formalised this intuition behind information in his seminal work on Information Theory.（参考リンク：[Cross-Entropy for Dummies](https://towardsdatascience.com/cross-entropy-for-dummies-5189303c7735)）
 
 
 ### カルバック・ライブラー　ダイバージェンス（Kullback–Leibler divergence）(MA_95_統計_25)
@@ -394,26 +394,16 @@ I(P(x))：Pの自己情報量
 > Very often in Probability and Statistics we'll replace observed data or a complex distributions with a simpler, approximating distribution. KL Divergence helps us to measure just how much information we lose when we choose an approximation. (参考リンク：[Kullback-Leibler Divergence Explained](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained))
 
 
+### 交差エントロピー（cross-entropy）(MA_96_統計_26)
 
+発想：秘密情報を送る前に、暗号表をまず送ること
 
-
-
-
-### Markdown
-
-```markdown
-Syntax highlighted code block
-
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+H：エントロピー
+H(P,Q)：PとQの交差エントロピー
+```
+![Image](/MA_96_統計_26_08m00s.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+> The x~P in the above equation means that the values x takes are from the distribution P.（参考リンク：[Cross-Entropy for Dummies](https://towardsdatascience.com/cross-entropy-for-dummies-5189303c7735)）
+
+> Cross-entropy measures the relative entropy between two probability distributions over the same set of events. Intuitively, to calculate cross-entropy between P and Q, you simply calculate entropy for Q using probability weights from P.（参考リンク：[Cross-Entropy for Dummies](https://towardsdatascience.com/cross-entropy-for-dummies-5189303c7735)）
