@@ -24,3 +24,20 @@ E資格の試験には応用数学と機械学習が40-50%出題されている�
 
 
 ### ML_02_01_機械学習とは
+
+![Image](/ML_02_01_機械学習とは_03m01s.png)
+
+> A computer program is said to learn from experience E with respect to some task T and some performance measure P, if its performance on T, as measured by P, improves with experience E. (参考リンク：[What is machine learning and types of machine learning — Part-1](https://towardsdatascience.com/what-is-machine-learning-and-types-of-machine-learning-andrews-machine-learning-part-1-9cd9755bc647#:~:text=Tom%20Mitchell%20provides%20a%20more,Example%20%3A&text=To%20find%20that%20logic%20is%20called%20%E2%80%9Cmachine%20learning%E2%80%9D.))
+
+
+### ML_03_01_線形回帰モデル
+```
+線形回帰　：直線で予測回帰問題
+非線形回帰：曲線で予測回帰問題
+```
+T:転置（transpose）
+
+![Image](/ML_03_01_線形回帰モデル_01m40s.png)
+
+
+### ML_03_02_線形回帰モデル
