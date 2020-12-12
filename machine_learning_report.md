@@ -85,3 +85,12 @@ MSEの最小値を求めるのは、MSEを微分したものが0となるwを求
 ![Image](/ML_04_03_データ分割・学習_01m33s.png)
 
 
+### ML_05_02_ハンズオン（住宅価格予測）
+
+> A computer program is said to learn from experience E with respect to some task T and some performance measure P, if its performance on T, as measured by P, improves with experience E. (参考リンク：[skl_regression.ipynb](https://colab.research.google.com/drive/1bH9NltODOPXnOiuHinsf4ozRZkG6TBSC#scrollTo=mUMLJMTIMsNQ))
+
+
+### ML_06_01_非線形回帰モデル
+
+![Image](/ML_06_01_非線形回帰モデル_00m53s.png)
+
