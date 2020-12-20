@@ -87,7 +87,7 @@ MSEの最小値を求めるのは、MSEを微分したものが0となるwを求
 
 ### ML_05_02_ハンズオン（住宅価格予測）
 
-> A computer program is said to learn from experience E with respect to some task T and some performance measure P, if its performance on T, as measured by P, improves with experience E. (参考リンク：[skl_regression.ipynb](https://colab.research.google.com/drive/1bH9NltODOPXnOiuHinsf4ozRZkG6TBSC#scrollTo=mUMLJMTIMsNQ))
+> A computer program is said to learn from experience E with respect to some task T and some performance measure P, if its performance on T, as measured by P, improves with experience E. (実演リンク：[skl_regression.ipynb](https://colab.research.google.com/drive/1bH9NltODOPXnOiuHinsf4ozRZkG6TBSC#scrollTo=mUMLJMTIMsNQ))
 
 
 ### ML_06_01_非線形回帰モデル
@@ -245,6 +245,22 @@ wが求まると、pが求められるため：wの関数の最適化 = pの関�
 
 ### ML_14_01_ハンズオン（タイタニックデータ解析）
 ```
+Kaggleのタイタニックコンペ
+```
+![Image](/ML_14_01_ハンズオン（タイタニックデータ解析）_02m20s.png)
+
+
+### ML_14_02_ハンズオン（タイタニックデータ解析）
+### ML_14_03_ハンズオン（タイタニックデータ解析）
+### ML_14_04_ハンズオン（タイタニックデータ解析）
+```
+新しい特徴を作って、ロジスティック回帰で解析してみよう：性別（男性:0, 女性:1）+ クラス（）=> １つの特徴量（数字）ができた！
+```
+> 実演リンク：[skl_logistic_regression.ipynb](https://colab.research.google.com/drive/1fDDoZwchhPLCCpUJEQbjfrap5kUWJ1ze#scrollTo=lJRAxM_HH8EH)
+
+
+### ML_15_01_主成分分析
+```
 
 ```
 ![Image](/.png)
@@ -265,3 +281,28 @@ wが求まると、pが求められるため：wの関数の最適化 = pの関�
 ```
 ![Image](/.png)
 > 
+
+
+### 
+```
+
+```
+![Image](/.png)
+> 
+
+
+### 
+```
+
+```
+![Image](/.png)
+> 
+
+
+### 
+```
+
+```
+![Image](/.png)
+> 
+
