@@ -254,10 +254,24 @@ Kaggleのタイタニックコンペ
 ### ML_14_03_ハンズオン（タイタニックデータ解析）
 ### ML_14_04_ハンズオン（タイタニックデータ解析）
 ```
-新しい特徴を作って、ロジスティック回帰で解析してみよう：性別（男性:0, 女性:1）+ クラス（）=> １つの特徴量（数字）ができた！
+新しい特徴を作って、ロジスティック回帰で解析してみよう：クラス + 性別（男性:0, 女性:1）=> Pclass_Genderという１つの特徴量（数字）ができた！
 ```
+> DataFrameの「isnull」メソッドで欠損値を特定。
+![Image](/skl_logistic_regression.ipynb_cell_12_isnull.png)
+
+> DataFrameの「fillna」メソッドで欠損値を補完。
+![Image](/skl_logistic_regression.ipynb_cell_16_fillna.png)
+
+> Seriesの「values」アトリビュートでPandasのSeriesをnumpyのarrayに変換！
+![Image](/skl_logistic_regression.ipynb_cell_18_values.png)
+
+> DataFrameの「map」メソッドで新しい特徴を作れる！
+![Image](/skl_logistic_regression.ipynb_cell_57.png)
+
+> matplotlibライブラリで可視化して、特徴量で生死データを分けられているかを確認。
+![Image](/skl_logistic_regression.ipynb_cell_50_matplotlib.png)
+
 > 実演リンク：[skl_logistic_regression.ipynb](https://colab.research.google.com/drive/1fDDoZwchhPLCCpUJEQbjfrap5kUWJ1ze#scrollTo=lJRAxM_HH8EH)
-> https://drive.google.com/file/d/1fDDoZwchhPLCCpUJEQbjfrap5kUWJ1ze/view?usp=sharing
 
 
 ### ML_15_01_主成分分析
