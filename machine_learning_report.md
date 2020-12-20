@@ -124,7 +124,7 @@ MSEの最小値を求めるのは、MSEを微分したものが0となるwを求
 2、交差検証法：データが少ない時、数回分割する
 ```
 
-## 機械学習前半
+## 機械学習後半
 
 ### ML_09_01_ロジスティック回帰モデル
 
@@ -274,23 +274,22 @@ Kaggleのタイタニックコンペ
 > 実演リンク：[skl_logistic_regression.ipynb](https://colab.research.google.com/drive/1fDDoZwchhPLCCpUJEQbjfrap5kUWJ1ze#scrollTo=lJRAxM_HH8EH)
 
 
+
 ### ML_15_01_主成分分析
 ```
-
+四次元以上（千次元など！）の多次元データを二、三次元に圧縮できれば、可視化できるようになる。
 ```
-![Image](/.png)
-> 
+> 主成分分析（しゅせいぶんぶんせき、英: principal component analysis; PCA）
 
 
-### 
+### ML_15_02_主成分分析
 ```
-
+jは射影軸のインデックス：例えば、3次元のデータを2次元に圧縮する場合、1次元のjが「1」であり、2次元のjが「2」となる
 ```
-![Image](/.png)
-> 
+![Image](/ML_15_02_主成分分析_00m00s.png)
 
 
-### 
+### ML_15_03_主成分分析
 ```
 
 ```
