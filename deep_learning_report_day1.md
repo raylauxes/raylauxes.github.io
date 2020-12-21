@@ -7,7 +7,30 @@ http://study-ai.com/jdla/
 ### DL000_1_識別モデルと生成モデル
 
 ```
+機械学習（深層学習）モデルを２つに分類できる：
+1、識別モデル
+2、生成モデル
+
+識別モデルで、「x」が入力のデータである。
+p(Ck|x)：k個のクラス（Class）のうち、xがそれぞれのクラスに当てる確率
+```
+![Image](/DL000_1_識別モデルと生成モデル_02m15s.png)
+
+```
+識別モデル vs. 生成モデル
+
+※「隠れマルコフモデル」は自然言語処理に用いられる。例：「今日は」のうしろに「晴れ」が現れる確率
+※VAE、GANは深層学習のモデル
+```
+![Image](/DL000_1_識別モデルと生成モデル_06m17s.png)
+
+
+
+
+### 
+
+```
 ```
 ![Image](/.png)
 
-> 実演リンク：[np_knn.ipynb](https://drive.google.com/file/d/1ZmboMj0svdljTjl0-1jYHrgKSwYC22hm/view?usp=sharing)
+> 実演リンク：[link title](https://)
