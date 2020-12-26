@@ -209,15 +209,24 @@ K：クラス数
 
 
 ### DL006_勾配降下法
+```
+ニューラルネットワークは学習の過程でうまく重み（W）とバイアス（b）を調整する。
+その調整の仕方は、誤差関数を最小にするWとbを見つける。
+このWとbを見つけるのは、勾配降下法のミッションである。
 
+※E：誤差（関数）
 ```
 ```
-![Image](/.png)
+勾配降下法の学習率にはよく用いられるアルゴリズム：
+Momentum
+AdaGrad
+Adadelta
+Adam
+```
+> 実演リンク：[1_3_stochastic_gradient_descent.ipynb](https://drive.google.com/file/d/1kk-V9IHIyR4rNG-Li-Ih5aqeiYDekAhN/view?usp=sharing)
 
-> 実演リンク：[link title](https://)
 
-
-### 
+### DL007_確率的勾配降下法
 
 ```
 ```
