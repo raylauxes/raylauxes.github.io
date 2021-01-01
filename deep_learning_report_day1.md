@@ -323,13 +323,14 @@ CPU：どんなPCにも搭載
 
 ### DL016_特徴量の転移
 ```
+転移学習
 ```
-![Image](/.png)
-
+![Image](/DL016_特徴量の転移_00m20s.png)
+> 外部優良資料紹介：[Representation Learning](https://www.deeplearningbook.org/contents/representation.html)
 > 外部優良資料紹介（東京大学）：[ドメイン適応（Domain Adaptation）](https://www.mi.t.u-tokyo.ac.jp/research/domain_adaptation/)
 
 
-### 
+### DL099_問題解説
 ```
 ```
 ![Image](/.png)
