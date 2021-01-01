@@ -312,24 +312,20 @@ CPU：どんなPCにも搭載
 ※「回転」という手法は要注意。例：「9」=> 「6」
 ```
 ![Image](/DL014_データ集合の拡張_05m00s.png)
+![Image](/DL014_データ集合の拡張_10m45s.png)
 
-> 実演リンク：[link title](https://)
+
+### DL015_CNNで扱えるデータの種類
+![Image](/DL015_CNNで扱えるデータの種類_03m40s.png)
+> 外部優良資料紹介（Cifar）：[The CIFAR-10 dataset](http://www.cs.toronto.edu/~kriz/cifar.html)
 
 
-### 
+### DL016_特徴量の転移
 ```
 ```
 ![Image](/.png)
 
-> 実演リンク：[link title](https://)
-
-
-### 
-```
-```
-![Image](/.png)
-
-> 実演リンク：[link title](https://)
+> 外部優良資料紹介（東京大学）：[ドメイン適応（Domain Adaptation）](https://www.mi.t.u-tokyo.ac.jp/research/domain_adaptation/)
 
 
 ### 
