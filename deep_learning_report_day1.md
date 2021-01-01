@@ -313,6 +313,7 @@ CPU：どんなPCにも搭載
 ```
 ![Image](/DL014_データ集合の拡張_05m00s.png)
 ![Image](/DL014_データ集合の拡張_10m45s.png)
+> 外部優良資料紹介：[Regularization for Deep Learning](https://www.deeplearningbook.org/contents/regularization.html)
 
 
 ### DL015_CNNで扱えるデータの種類
