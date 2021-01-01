@@ -255,24 +255,33 @@ vs
 
 ### DL010_誤差逆伝播法_誤差勾配の計算
 ```
+右側（誤差）から微分すると、重複した計算を避けられる！
 ```
-![Image](/.png)
+![Image](/DL010_誤差逆伝播法_誤差勾配の計算_06m10s.png)
 
-
-### 
 ```
+# 平均二乗誤差の導関数
+def d_mean_squared_error(d, y):
+    if type(d) == np.ndarray:
+        batch_size = d.shape[0]
+        dx = (y - d)/batch_size
+    else:
+        dx = y - d
+    return dx
 ```
-![Image](/.png)
+![Image](/1_3_stochastic_gradient_descent.ipynb_backward.png)
 
-> 実演リンク：[link title](https://)
-
-
-### 
 ```
+W2を求める部分を説明すると
 ```
-![Image](/.png)
+![Image](/DL010_誤差逆伝播法_誤差勾配の計算_19m09s.png)
 
-> 実演リンク：[link title](https://)
+![Image](/DL010_誤差逆伝播法_誤差勾配の計算_22m00s.png)
+```
+回答：
+1、delta1 = np.dot(delta2, W2.T) * functions.d_sigmoid(z1)
+2、grad['W1'] = np.dot(x.T, delta1)
+```
 
 
 ### 
