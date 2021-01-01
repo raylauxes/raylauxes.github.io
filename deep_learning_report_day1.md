@@ -295,6 +295,54 @@ CPU：どんなPCにも搭載
 ![Image](/DL011_ディープラーニングの開発環境_08m00s.png)
 
 
+### DL012_入力層の設計
+```
+```
+![Image](/.png)
+
+> 実演リンク：[link title](https://)
+
+
+### 
+```
+```
+![Image](/.png)
+
+> 実演リンク：[link title](https://)
+
+
+### 
+```
+```
+![Image](/.png)
+
+> 実演リンク：[link title](https://)
+
+
+### 
+```
+```
+![Image](/.png)
+
+> 実演リンク：[link title](https://)
+
+
+### 
+```
+```
+![Image](/.png)
+
+> 実演リンク：[link title](https://)
+
+
+### 
+```
+```
+![Image](/.png)
+
+> 実演リンク：[link title](https://)
+
+
 ### 
 ```
 ```
