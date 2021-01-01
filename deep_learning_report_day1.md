@@ -327,6 +327,7 @@ CPU：どんなPCにも搭載
 ```
 ![Image](/DL016_特徴量の転移_00m20s.png)
 > 外部優良資料紹介：[Representation Learning](https://www.deeplearningbook.org/contents/representation.html)
+
 > 外部優良資料紹介（東京大学）：[ドメイン適応（Domain Adaptation）](https://www.mi.t.u-tokyo.ac.jp/research/domain_adaptation/)
 
 
@@ -334,22 +335,19 @@ CPU：どんなPCにも搭載
 ```
 ```
 ![Image](/.png)
-
 > 実演リンク：[link title](https://)
 
 
-### 
+
 ```
 ```
 ![Image](/.png)
-
 > 実演リンク：[link title](https://)
 
 
-### 
+
 ```
 ```
 ![Image](/.png)
-
 > 実演リンク：[link title](https://)
 
