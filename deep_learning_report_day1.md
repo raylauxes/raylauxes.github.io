@@ -333,21 +333,13 @@ CPU：どんなPCにも搭載
 
 ### DL099_問題解説
 ```
+問1
 ```
-![Image](/.png)
-> 実演リンク：[link title](https://)
-
-
-
-```
-```
-![Image](/.png)
-> 実演リンク：[link title](https://)
-
+![Image](/DL099_問題解説_00m57s.png)
+![Image](/DL099_問題解説_01m47s.png)
 
 
 ```
+ベイズの定理：原因から結果を求められる、結果から原因を求められるイメージ
 ```
-![Image](/.png)
-> 実演リンク：[link title](https://)
-
+![Image](/DL099_問題解説_11m00s.png)
