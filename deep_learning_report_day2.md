@@ -91,16 +91,34 @@ A:重みを0で初期化すると正しい学習が行えない。すべての�
 ![Image](/深層学習day2_01h25m18s.png)
 
 
-
-
-#### 
+##### 01:26:00- コード：2_2_2_vanishing_gradient_modified.ipynb
 ```
+sigmoid - gauss
 ```
-![Image](/.png)
-> 実演リンク：[title](https://)
+![Image](/2_2_2_vanishing_gradient_modified.ipynb_sigmoid - gauss.png)
+
+```
+ReLU - gauss
+```
+![Image](/2_2_2_vanishing_gradient_modified.ipynb_ReLU - gauss.png)
+
+```
+sigmoid - Xavier
+```
+![Image](/2_2_2_vanishing_gradient_modified.ipynb_sigmoid - Xavier.png)
+
+```
+ReLU - He
+```
+![Image](/2_2_2_vanishing_gradient_modified.ipynb_ReLU - He.png)
+> 実演リンク：[2_2_2_vanishing_gradient_modified.ipynb](https://drive.google.com/file/d/1kYiddadTG1V9KxiCRTBpFbn7mPvEEm1J/view?usp=sharing)
 
 
-#### 
+##### 外部資料
+> 外部資料リンク：[To understand LSTM architecture, code a forward pass with just NumPy](https://towardsdatascience.com/the-lstm-reference-card-6163ca98ae87)
+
+
+##### 01:29:00- コード：2_3_batch_normalization.ipynb 
 ```
 ```
 ![Image](/.png)
