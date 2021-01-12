@@ -1,15 +1,16 @@
-# 深層学習day3レポート(CNN)
+# 深層学習day3レポート(RNN)
 
 ![Image](/bnr_jdla.png)
 http://study-ai.com/jdla/
 
 
 ## 00:00:00- アジェンダ
+![Image](/深層学習day3-1_00h00m30s.png)
 
-#### 
+#### 00:02:00- CNNの構造図復習
 ```
 ```
-![Image](/.png)
+
 > 実演リンク：[title](https://)
 
 
