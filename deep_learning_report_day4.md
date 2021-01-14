@@ -68,10 +68,22 @@ Jとは、方策の良さ（定義しなきゃ！）
 
 ### DL04-006_AlphaGo1
 ```
+AlphaGo:
+1. AlphaGo Lee
+2. AlphaGo Zero
+```
 
 ```
-![Image](/.png)
-> 実演リンク：[title](https://)
+PolicyNet（方策関数）
+```
+![Image](/DL04-006_AlphaGo1_02m00s.png)
+![Image](/DL04-006_AlphaGo1_04m15s.png)
+
+
+```
+ValueNet（価値関数）
+```
+![Image](/DL04-006_AlphaGo1_09m45s.png)
 
 
 ### 
