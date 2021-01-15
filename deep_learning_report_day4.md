@@ -101,9 +101,6 @@ RollOutPolicy
 
 
 ### DL04-008_AlphaGo3
-```
-
-```
 ![Image](/DL04-008_AlphaGo3_00m30s.png)
 
 ```
@@ -111,13 +108,23 @@ RollOutPolicy
 ```
 ![Image](/DL04-008_AlphaGo3_02m30s.png)
 
-
-### 
+```
+概要：
+最初にPolicyNetをある程度まで教師あり学習をさせる。
+その次に、ValueNetを合わせて、強化学習を行う。
 ```
 
+
+### DL04-009_AlphaGo4
 ```
-![Image](/.png)
-> 実演リンク：[title](https://)
+AphaGo LeeとAlphaGo Zeroの違い：
+1、教師あり学習を行わず、強化学習のみ
+2、特徴入力からヒューリスティックな要素（シチョウ、呼吸数、取られる石の数など）を排除し、石の配置のみにした
+3、PolicyNetとValueNetを１つのネットワークにした（そもそも入力したものが似ていた）
+4、（よく画像認識に用いられた）Residual Netを導入
+5、モンテカルロ木探索からRollOutシミュレーションをなくした
+```
+![Image](/DL04-009_AlphaGo4_03m10s.png)
 
 
 ### 
