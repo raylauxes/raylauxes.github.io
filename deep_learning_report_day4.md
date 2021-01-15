@@ -86,12 +86,13 @@ ValueNet（価値関数）
 ![Image](/DL04-006_AlphaGo1_09m45s.png)
 
 
-### 
+### DL04-007_AlphaGo2
 ```
-
+２つのPolicyNetを用意しよう。スピード：3 milli seconds vs 3 micro seconds
 ```
-![Image](/.png)
-> 実演リンク：[title](https://)
+![Image](/DL04-007_AlphaGo2_01m35s.png)
+![Image](/DL04-007_AlphaGo2_01m40s.png)
+![Image](/DL04-007_AlphaGo2_03m15s.png)
 
 
 ### 
