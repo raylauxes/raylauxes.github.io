@@ -91,16 +91,25 @@ ValueNet（価値関数）
 ２つのPolicyNetを用意しよう。スピード：3 milli seconds vs 3 micro seconds
 ```
 ![Image](/DL04-007_AlphaGo2_01m35s.png)
+
+
+```
+RollOutPolicy
+```
 ![Image](/DL04-007_AlphaGo2_01m40s.png)
 ![Image](/DL04-007_AlphaGo2_03m15s.png)
 
 
-### 
+### DL04-008_AlphaGo3
 ```
 
 ```
-![Image](/.png)
-> 実演リンク：[title](https://)
+![Image](/DL04-008_AlphaGo3_00m30s.png)
+
+```
+モンテカルロ木探索
+```
+![Image](/DL04-008_AlphaGo3_02m30s.png)
 
 
 ### 
