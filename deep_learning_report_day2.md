@@ -120,11 +120,40 @@ ReLU - He
 
 ##### 01:29:00- コード：2_3_batch_normalization.ipynb 
 ```
+※TPUなどハードウェアの制限で、バッチサイズはよく2の倍数（特に8の倍数）に設定する
+```
+![Image](/深層学習day2_01h38m00s.png)
+> 実演リンク：[title](https://)
+
+
+
+### 01:45:00 Section2) 学習率最適化について
+
+#### 
+```
 ```
 ![Image](/.png)
 > 実演リンク：[title](https://)
 
 
+#### 
+```
+```
+![Image](/.png)
+> 実演リンク：[title](https://)
+
+#### 
+```
+```
+![Image](/.png)
+> 実演リンク：[title](https://)
+
+
+#### 
+```
+```
+![Image](/.png)
+> 実演リンク：[title](https://)
 
 #### 
 ```
