@@ -160,7 +160,6 @@ ReLU - He
 
 #### 02:25:00- 2-4 Adam
 ![Image](/深層学習day2_02h26m00s.png)
-![Image](/.png)
 > 実演リンク：[2_4_optimizer.ipynb](https://colab.research.google.com/drive/1h5MgqycjgScepnGc_1z3hbMWLJjxg55e)
 
 
