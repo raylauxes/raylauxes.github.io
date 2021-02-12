@@ -123,28 +123,65 @@ ReLU - He
 ※TPUなどハードウェアの制限で、バッチサイズはよく2の倍数（特に8の倍数）に設定する
 ```
 ![Image](/深層学習day2_01h38m00s.png)
-> 実演リンク：[title](https://)
 
 
 
 ### Section2) 学習率最適化手法について
 
 #### 01:55:00- 勾配降下法の復習
+```
 4つの学習率最適化手法(optimizer)のなか、Adamはよく用いられる
 １、モメンタム
 ２、AdaGrad
 ３、RMSProp
 ４、Adam
+```
+
+> 実演リンク：[optimizer-visualization](https://github.com/jaewan-Yun/optimizer-visualization)
 
 #### ０２：００：００-　学習率の復習
 
 #### 02:03:00- 2-1 モメンタム
 ![Image](/深層学習day2_02h10m11s.png)
+![Image](/深層学習day2_02h11m50s.png)
+
+#### 02:12:00- 2-2 AdaGrad
+![Image](/深層学習day2_02h16m00s.png)
+![Image](/深層学習day2_02h18m00s.png)
+
+
+#### 02:18:00- 2-3 RMSProp
+```
+※AdaGradの改良版: AdaGradにαを導入！
+```
+![Image](/深層学習day2_02h21m00s.png)
+![Image](/深層学習day2_02h25m00s.png)
+
+
+#### 
+```
+
+```
+![Image](/.png)
+![Image](/.png)
 > 実演リンク：[title](https://)
 
-##### 02:10:00- 数式とコード
+
+
+#### 
 ```
 ```
+![Image](/.png)
+![Image](/.png)
+> 実演リンク：[title](https://)
+
+
+
+
+#### 
+```
+```
+![Image](/.png)
 ![Image](/.png)
 > 実演リンク：[title](https://)
 
@@ -152,12 +189,6 @@ ReLU - He
 ```
 ```
 ![Image](/.png)
-> 実演リンク：[title](https://)
-
-
-#### 
-```
-```
 ![Image](/.png)
 > 実演リンク：[title](https://)
 
@@ -165,11 +196,33 @@ ReLU - He
 ```
 ```
 ![Image](/.png)
+![Image](/.png)
 > 実演リンク：[title](https://)
-
 
 #### 
 ```
 ```
+![Image](/.png)
+![Image](/.png)
+> 実演リンク：[title](https://)
+
+#### 
+```
+```
+![Image](/.png)
+![Image](/.png)
+> 実演リンク：[title](https://)
+
+#### 
+```
+```
+![Image](/.png)
+![Image](/.png)
+> 実演リンク：[title](https://)
+
+#### 
+```
+```
+![Image](/.png)
 ![Image](/.png)
 > 実演リンク：[title](https://)
