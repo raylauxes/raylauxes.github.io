@@ -187,17 +187,24 @@ ReLU - He
 
 ##### 03:11:00- 正則化の計算
 ```
-```
-![Image](/.png)
-![Image](/.png)
-> 実演リンク：[title](https://)
+E：誤差関数の誤差
 
-#### 
+p=1 : L1正則化(lasso)
+p=2 : L2正則化(ridge?)
 ```
-```
-![Image](/.png)
-![Image](/.png)
-> 実演リンク：[title](https://)
+![Image](/深層学習day2_03h12m30s.png)
+![Image](/深層学習day2_03h13m30s.png)
+
+
+##### 03:33:00- 例題チャレンジ 
+![Image](/深層学習day2_03h33m30s.png)
+> 正解：４
+
+##### 03:35:00- 例題チャレンジ 
+![Image](/深層学習day2_03h35m00s.png)
+> 正解：?
+
+
 
 #### 
 ```
