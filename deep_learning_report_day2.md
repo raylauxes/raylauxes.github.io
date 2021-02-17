@@ -202,16 +202,13 @@ p=2 : L2正則化(ridge?)
 
 ##### 03:35:00- 例題チャレンジ 
 ![Image](/深層学習day2_03h35m00s.png)
-> 正解：?
+> 正解：3
 
 
+#### 03:50:00- 3-2 ドロップアウト 
 
-#### 
-```
-```
-![Image](/.png)
-![Image](/.png)
-> 実演リンク：[title](https://)
+##### 03:54:00- プログラムを見る 
+> 実演リンク：[2_5_overfiting.ipynb](https://colab.research.google.com/drive/12MRSojBreHl19i2HhImfNkgQ8uiGcS9-)
 
 #### 
 ```
